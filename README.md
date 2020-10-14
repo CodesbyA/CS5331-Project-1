@@ -1,6 +1,6 @@
 ## Virtual-Reality-CS5331- Project-1
 
-#Introduction
+# Introduction
 
 My project is a recreation of my room and a room that depicts the current circumstances arounf the world. 
 
