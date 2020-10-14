@@ -6,6 +6,8 @@ My project is a recreation of my room and a room that depicts the current circum
 
 ## Video
 
+[![Watch the video](Covid Mode.png)](https://youtu.be/kpLia6UtYCg)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
