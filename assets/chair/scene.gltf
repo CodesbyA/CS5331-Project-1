@@ -1,0 +1,362 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7168,
+      "max": [
+        355.71200561523438,
+        471.88198852539062,
+        954.6400146484375
+      ],
+      "min": [
+        -332.29058837890625,
+        -341.76748657226562,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 86016,
+      "componentType": 5126,
+      "count": 7168,
+      "max": [
+        1,
+        1,
+        0.99518704414367676
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7168,
+      "max": [
+        1,
+        0.99864810705184937,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99439966678619385,
+        -0.99991804361343384,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7168,
+      "max": [
+        0.97600001096725464,
+        0.98739999532699585
+      ],
+      "min": [
+        0.0035000001080334187,
+        0.0035000001080334187
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 38934,
+      "max": [
+        7167
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 172032,
+      "componentType": 5126,
+      "count": 5986,
+      "max": [
+        355.71200561523438,
+        471.88198852539062,
+        955.71502685546875
+      ],
+      "min": [
+        -332.29058837890625,
+        -341.76748657226562,
+        5.3063998222351074
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 243864,
+      "componentType": 5126,
+      "count": 5986,
+      "max": [
+        1,
+        1,
+        0.99999558925628662
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.99519723653793335
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 114688,
+      "componentType": 5126,
+      "count": 5986,
+      "max": [
+        1,
+        0.9995308518409729,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.9997333288192749,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 57344,
+      "componentType": 5126,
+      "count": 5986,
+      "max": [
+        0.98059999942779541,
+        0.99650001525878906
+      ],
+      "min": [
+        0.0035000001080334187,
+        0.0082999998703598976
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 155736,
+      "componentType": 5125,
+      "count": 30372,
+      "max": [
+        5985
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Knik (https://sketchfab.com/knik211)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lounger-armchair-e9d9d87c32f144e2873765e66814f727",
+      "title": "Lounger Armchair"
+    },
+    "generator": "Sketchfab-7.44.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 277224,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 105232,
+      "byteOffset": 277224,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 315696,
+      "byteOffset": 382456,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 210464,
+      "byteOffset": 698152,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 908616,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Lounger_wire_115115115_diffuse.png"
+    },
+    {
+      "uri": "textures/Lounger_wire_115115115_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Lounger_wire_115115115_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 1,
+          "specularFactor": [
+            0.050000000000000003,
+            0.050000000000000003,
+            0.050000000000000003
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Lounger_wire_115115115",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Lounger.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
