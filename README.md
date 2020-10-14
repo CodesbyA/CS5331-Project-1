@@ -4,15 +4,6 @@
 
 My project is a recreation of my room and a room that depicts the current circumstances arounf the world. 
 
-## Video
-
-[![Watch the video](https://codesbya.github.io/CS5331-Project-1/img/c02.jpg)](https://youtu.be/kpLia6UtYCg)
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Motivation
 The idea of the project was to focus on the environments around us which had changed due to the Covid-19. For my project, I wanted to show how maasks and sanitizers have become a coomon affair. 
 
@@ -64,9 +55,9 @@ After building the room, I created the environment outisde using assets that I d
 
 The room is divided into Covid and Non Covid Mode. 
 
-![Image](Covid Mode.png)
+![Image](https://codesbya.github.io/CS5331-Project-1/Covid Mode.png)
 
-![Image](Noncovid.png)
+![Image](https://codesbya.github.io/CS5331-Project-1/Noncovid.png)
 
 To add components to the room, I imported a few models from SketchFab. The following code displays all the models that were imported:
 
@@ -154,7 +145,7 @@ To add components to the room, I imported a few models from SketchFab. The follo
 
 The fan in the non covid room. 
 
-![Image](Outside.png)
+![Image](https://codesbya.github.io/CS5331-Project-1/Outside.png)
 
 The images displayed in the non covide room were taken by me and precisely replicate the wall in my room. the frame around the images was also created by me using aframe. 
 
